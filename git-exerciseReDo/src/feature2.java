@@ -4,6 +4,7 @@ public class feature2 {
 	public static void main(String[] args) {
 		//test for feature2
 		count(feature1.RandomDiamond());
+		//test comment ljgjhg
 
 	}
 		public static void count(int[] array) {
