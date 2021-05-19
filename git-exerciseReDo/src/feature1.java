@@ -2,7 +2,8 @@
 public class feature1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//test feature1
+		RandomDiamond();
 
 	}
 	public static int[] RandomDiamond() {
