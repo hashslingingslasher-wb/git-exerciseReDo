@@ -6,6 +6,7 @@ public class feature2 {
 		count(feature1.RandomDiamond());
 		//test comment 
 		
+		
 
 	}
 		public static void count(int[] array) {
